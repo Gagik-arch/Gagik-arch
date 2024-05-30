@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagik-arch" alt="gagik-arch" /></a> </p>
 
-- 🔭 I’m currently working on **Babbleshot**
+- 🔭 I’m currently working on **Idea design tool like Figma**
 
 - 🌱 I’m currently learning **C++ and Unreal Engine**
 
