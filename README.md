@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, React Native**
 
-- 📫 How to reach me gagik.chilingaryan2020@gmail.com **gagik.chilingaryan2020@gmail.com**
+- 📫 How to reach me **gagik.chilingaryan2020@gmail.com**
 
 - 📄 Know about my experiences (https://rxresu.me/gagik.chilingaryan2020/gagik-chilingaryan-cv)
 
