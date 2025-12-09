@@ -7,7 +7,7 @@
 
 - 📫 How to reach me gagik.chilingaryan2020@gmail.com **gagik.chilingaryan2020@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/gagik.chilingaryan2020/gagik-chilingaryan-cv](https://rxresu.me/gagik.chilingaryan2020/gagik-chilingaryan-cv)
+- 📄 Know about my experiences (https://rxresu.me/gagik.chilingaryan2020/gagik-chilingaryan-cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
