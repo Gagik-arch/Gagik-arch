@@ -1,18 +1,74 @@
-<h1 align="center">Hi 👋, I'm Gagik</h1>
-<h3 align="center">Experienced Software Engineer with 6+ years of hands-on experience building high-quality web, mobile, and desktop applications. Skilled in React, React Native, and Electron.js, with a solid understanding of modern UI/UX principles. Proven ability to deliver performant, scalable, and user-focused solutions across platforms. Passionate about writing clean code, optimizing user experience, and bringing innovative ideas to life.</h3>
+# Hi 👋, I'm Gagik Chilingaryan
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ashen-alpha-61.vercel.app/](https://portfolio-ashen-alpha-61.vercel.app/)
+### Software Engineer | React & React Native | TypeScript | Electron.js
 
-- 💬 Ask me about **React, React Native**
+Software Engineer with **7 years of experience** building modern web, mobile, and desktop applications. Specialized in JavaScript, TypeScript, React, React Native, and Electron.js, with a strong focus on frontend architecture, performance optimization, and cross-platform development.
 
-- 📫 How to reach me **gagik.chilingaryan2020@gmail.com**
+I enjoy solving complex engineering challenges, designing maintainable architectures, and building software from the ground up. I'm particularly interested in browser technologies, rendering engines, developer tools, and creating products that combine great engineering with intuitive user experiences.
 
-- 📄 Know about my experiences (https://rxresu.me/gagik.chilingaryan2020/gagik-chilingaryan-cv)
+- 🚀 Building [**Nuvo**](https://github.com/nuvo-js) — a lightweight, TypeScript-first UI library built around native DOM APIs.
+- 🎨 Developing **Axis** — a 2D design editor and custom canvas rendering engine built with TypeScript and HTML Canvas.
+- 💻 Experienced in web, mobile, and desktop application development.
+- ⚡ Passionate about performance optimization, software architecture, and clean code.
+- 🌱 Currently exploring **C# and .NET** to expand my backend engineering skills.
+- 💬 Ask me about **JavaScript, TypeScript, React, React Native, Electron.js, and frontend architecture**.
+- 🌐 Portfolio: [View my projects](https://portfolio-ashen-alpha-61.vercel.app/)
+- 📄 Resume: [View my CV](https://drive.google.com/file/d/1p8krvoGKkLC20tTF_OS8FmK_WUwlkX0F/view?usp=sharing)
+- 📫 Contact: [**gagik.chilingaryan2020@gmail.com**](mailto\:gagik.chilingaryan2020@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gagik-chilingaryan-0884b9216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gagik-chilingaryan-0884b9216/" height="30" width="40" /></a>
-</p>
+### 🚀 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[**Nuvo**](https://github.com/nuvo-js)
+
+A lightweight UI library designed around native browser APIs, direct DOM manipulation, and a simple reactive store.
+
+**Axis**
+
+A browser-based 2D design editor featuring a custom canvas rendering engine, virtual camera, vector geometry, shape manipulation, zooming, panning, and snapping.
+
+### 🛠️ Languages and Tools
+
+**Languages**
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=js,ts,cs,html,css](https://skillicons.dev/icons?i=js,ts,cs,html,css)" />
+\</p>
+
+**Frontend Development**
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=react,redux,sass,tailwind,vite](https://skillicons.dev/icons?i=react,redux,sass,tailwind,vite)" />
+\</p>
+
+**Mobile & Desktop Development**
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=react,electron](https://skillicons.dev/icons?i=react,electron)" />
+\</p>
+
+**Backend & Database**
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=dotnet,nodejs,express,postgres,mongodb](https://skillicons.dev/icons?i=dotnet,nodejs,express,postgres,mongodb)" />
+\</p>
+
+**Tools & Platforms**
+
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,figma](https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,figma)" />
+\</p>
+
+### 🤝 Connect with Me
+
+\<p>
+&#x20; \<a href="[https://www.linkedin.com/in/gagik-chilingaryan-0884b9216/](https://www.linkedin.com/in/gagik-chilingaryan-0884b9216/)">
+&#x20;   \<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" height="40" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:gagik.chilingaryan2020\@gmail.com">
+&#x20;   \<img src="[https://skillicons.dev/icons?i=gmail](https://skillicons.dev/icons?i=gmail)" height="40" />
+&#x20; \</a>
+\</p>
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my projects and connect with me.
