@@ -6,7 +6,7 @@ Software Engineer with **7 years of experience** building modern web, mobile, an
 
 I enjoy solving complex engineering challenges, designing maintainable architectures, and building software from the ground up. I'm particularly interested in browser technologies, rendering engines, developer tools, and creating products that combine great engineering with intuitive user experiences.
 
-- 🚀 Building [**Nuvo**](https://github.com/nuvo-js) — a lightweight, TypeScript-first UI library built around native DOM APIs.
+- 🚀 Building [**Nuvo**](https://www.npmjs.com/package/@nuvo-js/core) — a lightweight, TypeScript-first UI library built around native DOM APIs.
 - 🎨 Developing **Axis** — a 2D design editor and custom canvas rendering engine built with TypeScript and HTML Canvas.
 - 💻 Experienced in web, mobile, and desktop application development.
 - ⚡ Passionate about performance optimization, software architecture, and clean code.
@@ -18,7 +18,7 @@ I enjoy solving complex engineering challenges, designing maintainable architect
 
 ### 🚀 Featured Projects
 
-[**Nuvo**](https://github.com/nuvo-js)
+[**Nuvo**](https://www.npmjs.com/package/@nuvo-js/core)
 
 A lightweight UI library designed around native browser APIs, direct DOM manipulation, and a simple reactive store.
 
